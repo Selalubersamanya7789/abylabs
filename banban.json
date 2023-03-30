@@ -1,0 +1,179 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    
+    }
+  ],
+  "Skin": [
+    {
+      "id": 1,
+      "name_skin": "Banban",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/banban/png/skin1.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/banban/thumb/skin1.png"
+    },
+    {
+      "id": 2,
+      "name_skin": "Banban",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/banban/png/skin2.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/banban/thumb/skin2.png"
+    },
+    {
+      "id": 3,
+      "name_skin": "Banban",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/banban/png/skin3.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/banban/thumb/skin3.png"
+    },
+    {
+      "id": 4,
+      "name_skin": "Banban",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/banban/png/skin4.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/banban/thumb/skin4.png"
+    },
+    {
+      "id": 5,
+      "name_skin": "Banban",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/banban/png/skin5.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/banban/thumb/skin5.png"
+    },
+    {
+      "id": 6,
+      "name_skin": "Banban",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/banban/png/skin6.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/banban/thumb/skin6.png"
+    },
+    {
+      "id": 7,
+      "name_skin": "Banban",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/banban/png/skin7.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/banban/thumb/skin7.png"
+    },
+    {
+      "id": 8,
+      "name_skin": "Banban",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/banban/png/skin8.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/banban/thumb/skin8.png"
+    },
+    {
+      "id": 9,
+      "name_skin": "Banban",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/banban/png/skin9.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/banban/thumb/skin9.png"
+    },
+    {
+      "id": 10,
+      "name_skin": "Banban",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/banban/png/skin10.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/banban/thumb/skin10.png"
+    },
+    {
+      "id": 11,
+      "name_skin": "Banban",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/banban/png/skin11.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/banban/thumb/skin11.png"
+    },
+    {
+      "id": 12,
+      "name_skin": "Banban",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/banban/png/skin12.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/banban/thumb/skin12.png"
+    },
+    {
+      "id": 13,
+      "name_skin": "Banban",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/banban/png/skin13.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/banban/thumb/skin13.png"
+    },
+    {
+      "id": 14,
+      "name_skin": "Banban",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/banban/png/skin14.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/banban/thumb/skin14.png"
+    },
+    {
+      "id": 15,
+      "name_skin": "Banban",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/banban/png/skin15.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/banban/thumb/skin15.png"
+    },
+    {
+      "id": 16,
+      "name_skin": "Banban",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/banban/png/skin16.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/banban/thumb/skin16.png"
+    },
+    {
+      "id": 17,
+      "name_skin": "Banban",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/banban/png/skin17.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/banban/thumb/skin17.png"
+    },
+    {
+      "id": 18,
+      "name_skin": "Banban",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/banban/png/skin18.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/banban/thumb/skin18.png"
+    },
+    {
+      "id": 19,
+      "name_skin": "Banban",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/banban/png/skin19.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/banban/thumb/skin19.png"
+    },
+    {
+      "id": 20,
+      "name_skin": "Banban",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/banban/png/skin20.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/banban/thumb/skin20.png"
+    },
+    {
+      "id": 21,
+      "name_skin": "Banban",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/banban/png/skin21.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/banban/thumb/skin21.png"
+    }
+  ],
+  "Skin-Pack": [
+   
+  ],
+  "Addons": [
+    {
+      "id": 1,
+      "name_add": "",
+      "addB_url": "",
+      "addR_url": "",
+      "view_add": "",
+      "des_add": ""
+    }
+  ],
+  "Maps": [
+    {
+      "id": 1,
+      "name_map": "",
+      "view_map": "",
+      "map_url": "",
+      "des_map": ""
+    }
+  ]
+}
