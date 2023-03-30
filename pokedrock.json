@@ -1,0 +1,485 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    
+    }
+  ],
+  "Skin": [
+    {
+      "id": 1,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin1.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin1.png"
+    },
+    {
+      "id": 2,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin2.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin2.png"
+    },
+    {
+      "id": 3,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin3.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin3.png"
+    },
+    {
+      "id": 4,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin4.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin4.png"
+    },
+    {
+      "id": 5,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin5.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin5.png"
+    },
+    {
+      "id": 6,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin6.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin6.png"
+    },
+    {
+      "id": 7,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin7.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin7.png"
+    },
+    {
+      "id": 8,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin8.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin8.png"
+    },
+    {
+      "id": 9,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin9.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin9.png"
+    },
+    {
+      "id": 10,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin10.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin10.png"
+    },
+    {
+      "id": 11,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin11.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin11.png"
+    },
+    {
+      "id": 12,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin12.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin12.png"
+    },
+    {
+      "id": 13,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin13.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin13.png"
+    },
+    {
+      "id": 14,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin14.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin14.png"
+    },
+    {
+      "id": 15,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin15.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin15.png"
+    },
+    {
+      "id": 16,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin16.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin16.png"
+    },
+    {
+      "id": 17,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin17.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin17.png"
+    },
+    {
+      "id": 18,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin18.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin18.png"
+    },
+    {
+      "id": 19,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin19.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin19.png"
+    },
+    {
+      "id": 20,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin20.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin20.png"
+    },
+    {
+      "id": 21,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin21.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin21.png"
+    },
+    {
+      "id": 22,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin22.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin22.png"
+    },
+    {
+      "id": 23,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin23.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin23.png"
+    },
+    {
+      "id": 24,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin24.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin24.png"
+    },
+    {
+      "id": 25,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin25.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin25.png"
+    },
+    {
+      "id": 26,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin26.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin26.png"
+    },
+    {
+      "id": 27,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin27.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin27.png"
+    },
+    {
+      "id": 28,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin28.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin28.png"
+    },
+    {
+      "id": 29,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin29.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin29.png"
+    },
+    {
+      "id": 30,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin30.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin30.png"
+    },
+    {
+      "id": 31,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin31.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin31.png"
+    },
+    {
+      "id": 32,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin32.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin32.png"
+    },
+    {
+      "id": 33,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin33.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin33.png"
+    },
+    {
+      "id": 34,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin34.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin34.png"
+    },
+    {
+      "id": 35,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin35.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin35.png"
+    },
+    {
+      "id": 36,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin36.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin36.png"
+    },
+    {
+      "id": 37,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin37.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin37.png"
+    },
+    {
+      "id": 38,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin38.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin38.png"
+    },
+    {
+      "id": 39,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin39.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin39.png"
+    },
+    {
+      "id": 40,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin40.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin40.png"
+    },
+    {
+      "id": 41,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin41.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin41.png"
+    },
+    {
+      "id": 42,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin42.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin42.png"
+    },
+    {
+      "id": 43,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin43.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin43.png"
+    },
+    {
+      "id": 44,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin44.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin44.png"
+    },
+    {
+      "id": 45,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin45.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin45.png"
+    },
+    {
+      "id": 46,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin46.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin46.png"
+    },
+    {
+      "id": 47,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin47.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin47.png"
+    },
+    {
+      "id": 48,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin48.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin48.png"
+    },
+    {
+      "id": 49,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin49.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin49.png"
+    },
+    {
+      "id": 50,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin50.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin50.png"
+    },
+    {
+      "id": 51,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin51.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin51.png"
+    },
+    {
+      "id": 52,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin52.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin52.png"
+    },
+    {
+      "id": 53,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin53.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin53.png"
+    },
+    {
+      "id": 54,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin54.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin54.png"
+    },
+    {
+      "id": 55,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin55.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin55.png"
+    },
+    {
+      "id": 56,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin56.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin56.png"
+    },
+    {
+      "id": 57,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin57.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin57.png"
+    },
+    {
+      "id": 58,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin58.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin58.png"
+    },
+    {
+      "id": 59,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin59.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin59.png"
+    },
+    {
+      "id": 60,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin60.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin60.png"
+    },
+    {
+      "id": 61,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin61.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin61.png"
+    },
+    {
+      "id": 62,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin62.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin62.png"
+    },
+    {
+      "id": 63,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin63.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin63.png"
+    },
+    {
+      "id": 64,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin64.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin64.png"
+    },
+    {
+      "id": 65,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin65.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin65.png"
+    },
+    {
+      "id": 66,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin66.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin66.png"
+    },
+    {
+      "id": 67,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin67.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin67.png"
+    },
+    {
+      "id": 68,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin68.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin68.png"
+    },
+    {
+      "id": 69,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin69.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin69.png"
+    },
+    {
+      "id": 70,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin70.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin70.png"
+    },
+    {
+      "id": 71,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin71.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin71.png"
+    },
+    {
+      "id": 72,
+      "name_skin": "Pokedrock",
+      "skin_url": "https://aweu.net/zuuskin/abylabs/pokedrock/png/skin72.png",
+      "view_skin": "https://aweu.net/zuuskin/abylabs/pokedrock/thumb/skin72.png"
+    }
+  ],
+  "Skin-Pack": [
+   
+  ],
+  "Addons": [
+    {
+      "id": 1,
+      "name_add": "",
+      "addB_url": "",
+      "addR_url": "",
+      "view_add": "",
+      "des_add": ""
+    }
+  ],
+  "Maps": [
+    {
+      "id": 1,
+      "name_map": "",
+      "view_map": "",
+      "map_url": "",
+      "des_map": ""
+    }
+  ]
+}
